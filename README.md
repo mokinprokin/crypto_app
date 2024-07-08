@@ -16,8 +16,7 @@
 > ## GetIt
 > ![image](https://github.com/mokinprokin/crypto_app/assets/106832520/5599c191-d767-46e3-8a00-fe3cd9cc95e1)
 # Главная страница:
-<img src="https://github.com/mokinprokin/crypto_app/assets/106832520/417379de-ac24-42c7-842c-837bcc549ca6" alt="Description" width="300" height="200">
->![Screenshot_1720437839](https://github.com/mokinprokin/crypto_app/assets/106832520/417379de-ac24-42c7-842c-837bcc549ca6)
+<img src="https://github.com/mokinprokin/crypto_app/assets/106832520/417379de-ac24-42c7-842c-837bcc549ca6" alt="Description" width="400" height="900">
 # Обновление данных:
 >![Screenshot_1720437862](https://github.com/mokinprokin/crypto_app/assets/106832520/98b1c4a3-c68b-4f26-8cea-0b020b0716ae)
 # Подробная информация о криптовалюте:
