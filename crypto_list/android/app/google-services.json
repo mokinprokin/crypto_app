@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975791479162",
+    "project_id": "cryptolistapp-bbeda",
+    "storage_bucket": "cryptolistapp-bbeda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975791479162:android:85154ce48868ebda5f5ec3",
+        "android_client_info": {
+          "package_name": "com.example.crypto_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdVCjH7dvQENSp9Nrb-fN3oe9R29afpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975791479162:android:5279be44980ad6ca5f5ec3",
+        "android_client_info": {
+          "package_name": "com.flutterwings.crypto_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdVCjH7dvQENSp9Nrb-fN3oe9R29afpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
