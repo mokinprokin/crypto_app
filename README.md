@@ -12,6 +12,7 @@
 >![image](https://github.com/mokinprokin/crypto_app/assets/106832520/49673db5-49a1-44e5-907c-28010aa3b003)
 
 > ## dio
-> ![image](https://github.com/mokinprokin/crypto_app/assets/106832520/2089095e-c655-4f8e-a3d9-a25da723af68)
+> ![image](https://github.com/mokinprokin/crypto_app/assets/106832520/4aaa6b02-356d-42d1-8dea-4e9bfa9158a9)
 > ## GetIt
-> ![Uploading image.png…]()
+> ![image](https://github.com/mokinprokin/crypto_app/assets/106832520/5599c191-d767-46e3-8a00-fe3cd9cc95e1)
+
