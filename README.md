@@ -16,14 +16,14 @@
 > ## GetIt
 > ![image](https://github.com/mokinprokin/crypto_app/assets/106832520/5599c191-d767-46e3-8a00-fe3cd9cc95e1)
 # Главная страница:
-> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/417379de-ac24-42c7-842c-837bcc549ca6" alt="Description" width="400" height="750">
+> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/417379de-ac24-42c7-842c-837bcc549ca6" alt="Description" width="350" height="750">
 # Обновление данных:
-> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/98b1c4a3-c68b-4f26-8cea-0b020b0716ae" alt="Description" width="400" height="750">
+> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/98b1c4a3-c68b-4f26-8cea-0b020b0716ae" alt="Description" width="350" height="750">
 # Подробная информация о криптовалюте:
-> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/b387ff8b-45ce-42bb-bad6-f3c07721a86d" alt="Description" width="400" height="750">
+> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/b387ff8b-45ce-42bb-bad6-f3c07721a86d" alt="Description" width="350" height="750">
 
 # Talker screen
-> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/a1d52c31-ff6c-4ee6-a5d3-035edc03d8dc" alt="Description" width="400" height="750">
+> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/a1d52c31-ff6c-4ee6-a5d3-035edc03d8dc" alt="Description" width="350" height="750">
 
 ### Также все обновлённые данные о криптовалютах кэшируются с помощью *hive*
-> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/92f03203-6af1-4375-ad74-1fbc59481319" alt="Description" width="400" height="750">
+> <img src="https://github.com/mokinprokin/crypto_app/assets/106832520/92f03203-6af1-4375-ad74-1fbc59481319" alt="Description" width="350" height="750">
